@@ -2,7 +2,7 @@
 title: "Implementing Role-Based Access Control in PostgreSQL"
 date: 2025-02-06
 categories: [Postgres]
-tags: [PostgreSQL Security, RBAC]
+tags: [RBAC]
 description: "Learn how to implement Role-Based Access Control (RBAC) in PostgreSQL to enhance your database security. 
 This in-depth guide covers everything about roles, privileges, best practices, and troubleshooting tips with real-world examples."
 layout: post
